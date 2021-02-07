@@ -13,5 +13,6 @@ class Demo1ApplicationTest {
     public void contextLoads() {
 
         assertThat("actual", is("actual"));
+        assertThat("actual", is("actual"));
     }
 }
